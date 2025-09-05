@@ -1,11 +1,11 @@
-# Hghost0x00's GitHub 🚀
+<h1 align="center">Hghost0x00's GitHub 🚀</h1>
 
-Hello! I'm **Hghost0x00**, a passionate developer and cybersecurity enthusiast.  
-This GitHub is my hub for building tools and sharing projects in **cybersecurity, hacking, and software development**.
+<p align="center">Hello! I'm Hghost0x00, a passionate developer and cybersecurity enthusiast.  
+This GitHub is my hub for building tools and sharing projects in cybersecurity, hacking, and software development.</p>
 
-<p align="center">
+<h2 align="center">
   <img src="https://github.com/user-attachments/assets/c4bd85a2-7289-4cc2-86d4-4ac6f82a8b5a" alt="Cybersecurity Banner" width="600">
-</p>
+</h2>
 
 ---
 

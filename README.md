@@ -3,19 +3,23 @@
 Hello! I'm **Hghost0x00**, a passionate developer and cybersecurity enthusiast.  
 This GitHub is my hub for building tools and sharing projects in **cybersecurity, hacking, and software development**.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c4bd85a2-7289-4cc2-86d4-4ac6f82a8b5a" alt="Cybersecurity Banner" width="600">
+</p>
+
 ---
 
 ## 🧠 About Me
 
 - **Software & Security Enthusiast** – Exploring code, vulnerabilities, and emerging tech.  
-- **Continuous Learner** – Always improving skills and knowledge in the tech landscape.  
-- **Collaborator** – Open to working with like-minded individuals on innovative projects.  
+- **Continuous Learner** – Always sharpening my skills in the tech & security landscape.  
+- **Collaborator** – Open to teaming up with like-minded individuals on innovative projects.  
 
 ---
 
 ## 🔍 Featured Projects
 
-### **Loxs**
+### ⚡ Loxs
 A **powerful vulnerability scanner** that detects:  
 - SQL Injection (SQLi)  
 - Cross-Site Scripting (XSS)  
@@ -23,29 +27,29 @@ A **powerful vulnerability scanner** that detects:
 - Open Redirects (OR)  
 - CRLF Injections  
 
-**Features:**  
-- Multi-threaded scanning for efficiency  
+**Key Features:**  
+- Multi-threaded scanning for speed  
 - Customizable payloads  
-- Intuitive command-line interface  
+- Intuitive CLI  
 
-[Check it out → Loxs Repository](https://github.com/coffinxp/loxs)
+👉 [Explore Loxs Repository](https://github.com/coffinxp/loxs)
 
 ---
 
-### **DataWhiz**
+### 🕵️ DataWhiz
 An **OSINT tool** for retrieving information related to Pakistani mobile numbers and CNICs.  
 
-**Features:**  
+**Key Features:**  
 - CLI & GUI support  
 - Fast and reliable data extraction  
 
-[Check it out → DataWhiz Repository](https://github.com/AnonKryptiQuz/DataWhiz)
+👉 [Explore DataWhiz Repository](https://github.com/AnonKryptiQuz/DataWhiz)
 
 ---
 
 ## 📬 Connect with Me
 
 I'm always looking to collaborate, share knowledge, and grow within the tech community.  
-Reach out and let's connect!
+Feel free to reach out!  
 
 - **Twitter/X**: [@hghost010](https://x.com/hghost010)

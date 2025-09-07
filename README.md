@@ -34,6 +34,8 @@ BlindXSS is an automated web security testing tool designed to identify potentia
   
 👉 [Explore Blind_XSS Repository](https://github.com/Hghost0x00/Blind_XSS)
 
+---
+
 ### ⚡ Loxs
 A **powerful vulnerability scanner** that detects:  
 - SQL Injection (SQLi)  

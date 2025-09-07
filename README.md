@@ -19,6 +19,21 @@ This GitHub is my hub for building tools and sharing projects in cybersecurity, 
 
 ## 🔍 Featured Projects
 
+### 🎯 BLind XSS
+
+**Description**
+
+BlindXSS is an automated web security testing tool designed to identify potential blind Cross-Site Scripting (XSS) vulnerabilities. The tool systematically injects XSS payloads into form inputs and interactive elements on web pages to help security researchers and penetration testers identify potential security weaknesses.
+
+**Key Features:**  
+
+- Automated Form Detection: Automatically finds and tests input fields, textareas, select elements, and contenteditable elements
+- Comprehensive Testing: Tests various HTML input types and interactive elements
+- Smart Navigation: Handles form submissions and page redirections intelligently
+
+  
+👉 [Explore Blind_XSS Repository](https://github.com/Hghost0x00/Blind_XSS)
+
 ### ⚡ Loxs
 A **powerful vulnerability scanner** that detects:  
 - SQL Injection (SQLi)  

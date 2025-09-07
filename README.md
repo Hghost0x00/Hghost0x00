@@ -19,7 +19,7 @@ This GitHub is my hub for building tools and sharing projects in cybersecurity, 
 
 ## 🔍 Featured Projects
 
-### 🎯 BLind XSS
+### 🎯 Blind XSS
 
 **Description**
 

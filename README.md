@@ -17,28 +17,6 @@ This GitHub is my hub for building tools and sharing projects in cybersecurity, 
 
 ---
 
-## 🔍 Featured Projects
-
-### 🔀 http-sentinel
-
-An **open-source HTTP proxy** built from scratch in Java for:  
-- Web traffic interception & analysis  
-- HTTP/HTTPS request/response debugging  
-- Real-time traffic modification  
-- Session history & replay
-
-**Key Features (Planned):**  
-- Pure Java implementation  
-- User-friendly GUI interface  
-- Export/import functionality  
-- Multi-threaded proxy server  
-
-**Status:** 🚧 Early development - Follow the journey!  
-
-👉 [Explore http-sentinel Repository](https://github.com/Hghost0x00/http-sentinel)
-
----
-
 ### ⚡ Loxs
 A **powerful vulnerability scanner** that detects:  
 - SQL Injection (SQLi)  

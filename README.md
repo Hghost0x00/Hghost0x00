@@ -17,6 +17,8 @@ This GitHub is my hub for building tools and sharing projects in cybersecurity, 
 
 ---
 
+## 🎯 Featured Projects
+
 ### ⚡ Loxs
 A **powerful vulnerability scanner** that detects:  
 - SQL Injection (SQLi)  

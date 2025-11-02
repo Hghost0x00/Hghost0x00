@@ -16,8 +16,15 @@ This GitHub is my hub for building tools and sharing projects in cybersecurity, 
 - **Collaborator** – Open to teaming up with like-minded individuals on innovative projects.  
 
 ---
+## 🎯 Projects 
 
-## 🎯 Featured Projects
+
+### 👻 GhostDump
+A Telegram bot that silently backs up your USB drive folders and vanishes without a trace. 👻
+
+👉 [Explore GhostDump Repository](https://github.com/Hghost0x00/GhostDump)
+
+## 👥 Featured Projects
 
 ### ⚡ Loxs
 A **powerful vulnerability scanner** that detects:  

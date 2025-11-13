@@ -27,7 +27,7 @@
 
 ```javascript
 const hghost = {
-    code: ["JAVA", "JavaScript", "Pyton", "Bash", "C", "C++", "C#"],
+    code: ["JAVA", "JavaScript", "Python", "Bash", "C", "C++", "C#"],
     focus: ["Cybersecurity", "Penetration Testing", "OSINT", "Automation"],
     interests: ["Web Security", "Malware Dev", "Reverse Engineering"],
     currentlyLearning: "Advanced Exploit Development",

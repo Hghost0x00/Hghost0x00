@@ -49,7 +49,7 @@ const hghost = {
 
 ### 👻 **GhostDump** : Stealth USB Backup Bot
 
-*A Telegram bot that silently backs up your USB drive folders and vanishes without a trace. 👻
+*A Telegram bot that silently backs up your USB drive folders and vanishes without a trace. 👻*
 
 
 ```
@@ -58,6 +58,15 @@ const hghost = {
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00/GhostDump)
 [![Stars](https://img.shields.io/github/stars/Hghost0x00/GhostDump?style=for-the-badge&logo=github)](https://github.com/Hghost0x00/GhostDump)
+
+---
+
+### 📡 **GhostLogger** : Stealth USB Backup Bot
+
+*A keylogger using Telegram to exfiltrate the dumped keystrokes 📡*
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00/GhostLogger)
+[![Stars](https://img.shields.io/github/stars/Hghost0x00/GhostLogger?style=for-the-badge&logo=github)](https://github.com/Hghost0x00/GhostLogger)
 
 ---
 

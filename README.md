@@ -61,7 +61,7 @@ const hghost = {
 
 ---
 
-### 📡 **GhostLogger** : Stealth USB Backup Bot
+### 📡 **GhostLogger** : 
 
 *A keylogger using Telegram to exfiltrate the dumped keystrokes 📡*
 

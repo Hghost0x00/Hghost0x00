@@ -1,156 +1,156 @@
 <div align="center">
 
-# 👻 Hghost0x00
-
-### Security Researcher • Developer • Open Source Contributor
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Vulnerability+Research+%F0%9F%90%9B;Building+Security+Tools+%E2%9A%A1" alt="Typing SVG" />
-
-<img src="https://github.com/user-attachments/assets/c4bd85a2-7289-4cc2-86d4-4ac6f82a8b5a" alt="Cybersecurity Banner" width="800" style="border-radius: 10px; margin: 20px 0;">
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/hghost010?style=for-the-badge&logo=x&logoColor=white&color=1DA1F2)](https://x.com/hghost010)
-![Profile Views](https://komarev.com/ghpvc/?username=hghost0x00&style=for-the-badge&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/hghost0x00?style=for-the-badge&logo=github&color=181717)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7F7,50:0080FF,100:8B00FF&height=300&section=header&text=Hghost0x00&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20•%20Developer%20•%20Threat%20Hunter&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
-
----
-
-## 🎯 About Me
-
-```bash
-┌──(hghost0x00㉿security-researcher)-[~]
-└─$ cat about.txt
-```
-
-**Security is not just a profession, it's a mindset.** I'm a passionate developer and cybersecurity researcher dedicated to building tools that make the digital world safer. My work spans from vulnerability research to developing practical security solutions.
-
-```javascript
-const hghost = {
-    code: ["JAVA", "JavaScript", "Python", "Bash", "C", "C++", "C#", "Go"],
-    focus: ["Cybersecurity", "Penetration Testing", "OSINT", "Automation"],
-    interests: ["Web Security", "Malware Dev", "Reverse Engineering"],
-    currentlyLearning: "Advanced Exploit Development",
-    motto: "Break it, Learn it, Secure it 🛡️"
-};
-```
-
-**🔍 What I Do:**
-- 🐛 Hunt vulnerabilities and report responsibly
-- 🛠️ Build security tools and automation scripts
-- 📚 Share knowledge through open-source projects
-- 🤝 Collaborate with the security community
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 👻 **GhostDump** : Stealth USB Backup Bot
-
-*A Telegram bot that silently backs up your USB drive folders and vanishes without a trace. 👻*
-
-
-```
-📦 USB Backup    🔒 Stealth Operation    💬 Telegram Integration
-```
-
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00/GhostDump)
-[![Stars](https://img.shields.io/github/stars/Hghost0x00/GhostDump?style=for-the-badge&logo=github)](https://github.com/Hghost0x00/GhostDump)
-
----
-
-### 📡 **GhostLogger** : 
-
-*A keylogger using Telegram to exfiltrate the dumped keystrokes 📡*
-
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00/GhostLogger)
-[![Stars](https://img.shields.io/github/stars/Hghost0x00/GhostLogger?style=for-the-badge&logo=github)](https://github.com/Hghost0x00/GhostLogger)
-
----
-
-### ⚡ **Loxs** : Advanced Vulnerability Scanner
-
-*Multi-threaded web application security scanner*
-
-</div>
-
-**Detects:**
-- 💉 SQL Injection (SQLi)
-- 🎭 Cross-Site Scripting (XSS)
-- 📂 Local File Inclusion (LFI)
-- 🔀 Open Redirects
-- 🔗 CRLF Injections
-
-**Why Loxs?**
-- ⚙️ Multi-threaded scanning for maximum speed
-- 🎨 Customizable payload configurations
-- 🖥️ Clean, intuitive command-line interface
-- 📊 Detailed vulnerability reports
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coffinxp/loxs)
-[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/coffinxp/loxs)
-
----
-
-### 🕵️ **DataWhiz** : OSINT Intelligence Tool
-
-*Information gathering tool for Pakistani mobile numbers and CNICs*
-
-</div>
-
-**Features:**
-- 🖥️ Dual interface: CLI & GUI support
-- ⚡ Lightning-fast data extraction
-- 🎯 Accurate information retrieval
-- 🔐 Privacy-focused design
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnonKryptiQuz/DataWhiz)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/AnonKryptiQuz/DataWhiz)
-
-</div>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hghost0x00&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF)
+### 『 Offensive Security | Bug Bounty Hunter | Developer 』
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hghost0x00&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&random=false&width=600&height=60&lines=Breaking+Systems%2C+Building+Solutions+%F0%9F%94%A5;Penetration+Testing+%7C+Red+Teaming+%F0%9F%8E%AF;Malware+Analysis+%7C+Reverse+Engineering+%F0%9F%94%AC;Open+Source+Security+Tools+%E2%9A%A1;Because+Security+Matters+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
 </div>
-
----
-
-
-## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to collaborating on security research, open-source projects, and innovative ideas. Whether you want to discuss vulnerabilities, share knowledge, or build something together—let's connect!
-
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hghost010)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00)
-
----
-
-### 💭 Security Quote of the Day
-
-> *"Security is not a product, but a process. It's about continuous learning, adaptation, and staying one step ahead."*
-
----
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
-
-**⭐ If you find my work interesting, consider giving my repositories a star!**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/hghost010)
+[![GitHub](https://img.shields.io/github/followers/hghost0x00?label=Followers&style=for-the-badge&logo=github&color=171515&labelColor=171515)](https://github.com/Hghost0x00)
+[![Profile Views](https://komarev.com/ghpvc/?username=hghost0x00&style=for-the-badge&color=00F7F7&labelColor=000000)](https://github.com/hghost0x00)
 
 </div>
+
+---
+
+## 👤 $whoami
+
+```python
+class SecurityResearcher:
+    def __init__(self):
+        self.name = "Hghost0x00"
+        self.role = "Hacker"
+        self.language_spoken = ["en_US"]
+        
+    def get_skills(self):
+        return {
+            'languages': ['Python', 'C/C++', 'C#', 'Java', 'JavaScript', 'Go', 'Bash', '...'],
+            'specialization': [
+                'Vulnerability Research', 
+                'Malware Development',
+                'Reverse Engineering',
+                'OSINT'
+            ],
+        }
+
+    def philosophy(self):
+        return "Attack to Defend. Research to Protect. Code to Secure. 🛡️"
+```
+
+---
+
+## 🚀 Featured Arsenal
+
+<div align="center">
+
+### 🦠 [Ghost](https://github.com/Hghost0x00/Ghost) • *Malware Research Repository*
+
+**Educational malware samples, techniques, and POCs for security research**
+
+```
+🧬 Malware Techniques  |  🔬 Analysis Frameworks  |  📚 Educational Resources
+```
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00/Ghost)
+[![Stars](https://img.shields.io/github/stars/Hghost0x00/Ghost?style=for-the-badge&logo=github&color=yellow&labelColor=181717)](https://github.com/Hghost0x00/Ghost)
+
+---
+
+### ⚡ [Loxs](https://github.com/coffinxp/loxs) • *Advanced Web Vulnerability Scanner*
+
+**Multi-threaded security scanner with intelligent payload delivery**
+
+</div>
+
+<div align="center">
+
+| Detection Capabilities | Performance Features |
+|:----------------------:|:--------------------:|
+| 💉 SQL Injection | ⚡ Multi-threaded Architecture |
+| 🎭 Cross-Site Scripting (XSS) | 🎯 Smart Payload Selection |
+| 📂 Local File Inclusion (LFI) | 📊 Detailed Reporting |
+| 🔀 Open Redirect | 🔧 Customizable Configs |
+| 🔗 CRLF Injection | 🖥️ Beautiful CLI Interface |
+
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coffinxp/loxs)
+[![Maintained](https://img.shields.io/badge/Maintained-YES-00F7F7?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/coffinxp/loxs)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/coffinxp/loxs)
+
+---
+
+### 🕵️ [DataWhiz](https://github.com/AnonKryptiQuz/DataWhiz) • *OSINT Intelligence Platform*
+
+**Comprehensive information gathering tool with dual interface support**
+
+```
+CLI Mode: Lightning-fast terminal operations
+GUI Mode: User-friendly graphical interface
+```
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnonKryptiQuz/DataWhiz)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=181717)](https://github.com/AnonKryptiQuz/DataWhiz)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hghost0x00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&ring_color=00F7F7&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hghost0x00&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hghost0x00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Collaboration & Contact
+
+<div align="center">
+
+**Open to collaboration on:**
+- 🔐 Security research projects
+- 🛠️ Open-source security tools
+- 🐛 Vulnerability disclosure programs
+- 📚 Educational security content
+
+### Let's Connect
+
+[![Twitter](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hghost010)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00)

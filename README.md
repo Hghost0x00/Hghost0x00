@@ -52,6 +52,19 @@ class SecurityResearcher:
 
 <div align="center">
 
+### 🔥 [CVE-2022-26134-GO](https://github.com/Hghost0x00/CVE-2022-26134-GO) • 
+
+*Go-based exploitation framework targeting a critical OGNL injection vulnerability in Atlassian Confluence Server/Data Center.*
+
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00/CVE-2022-26134-GO)
+[![Stars](https://img.shields.io/github/stars/Hghost0x00/Ghost?style=for-the-badge&logo=github&color=yellow&labelColor=181717)](https://github.com/Hghost0x00/CVE-2022-26134-GO)
+
+---
+
+
+<div align="center">
+
 ### 🦠 [Ghost](https://github.com/Hghost0x00/Ghost) • *Malware Research Repository*
 
 **Educational malware samples, techniques, and POCs for security research**

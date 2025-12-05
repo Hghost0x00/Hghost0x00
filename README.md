@@ -59,7 +59,7 @@ class SecurityResearcher:
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00/CVE-2022-26134-GO)
 [![Stars](https://img.shields.io/github/stars/Hghost0x00/CVE-2022-26134-GO?style=for-the-badge&logo=github&color=yellow&labelColor=181717)](https://github.com/Hghost0x00/CVE-2022-26134-GO)
-
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/Hghost0x00/CVE-2022-26134-GO)
 ---
 
 

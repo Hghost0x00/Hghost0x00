@@ -47,10 +47,19 @@ class SecurityResearcher:
 ```
 
 ---
-
-## 🚀 Featured Arsenal
-
 <div align="center">
+
+## 🚀 Arsenal
+
+
+  
+### 🔥 [CVE-2025-55182](https://github.com/Hghost0x00/CVE-2025-55182) 
+
+*RCE exploitation tool targeting CVE-2025-55182, a critical vulnerability in React Server Components (RSC) affecting React 19.0.0 - 19.2.0 and Next.js applications.*
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00/CVE-2025-55182)
+[![Stars](https://img.shields.io/github/stars/Hghost0x00/CVE-2025-55182?style=for-the-badge&logo=github&color=yellow&labelColor=181717)](https://github.com/Hghost0x00/CCVE-2025-55182)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/Hghost0x00/CVE-2025-55182)
 
 ### 🔥 [CVE-2022-26134-GO](https://github.com/Hghost0x00/CVE-2022-26134-GO) 
 

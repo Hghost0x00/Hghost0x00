@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7F7,50:0080FF,100:8B00FF&height=300&section=header&text=Hghost0x00&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20•%20Developer%20•%20Threat%20Hunter&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=240&section=header&text=Hghost0x00&fontSize=85&fontColor=00E1FF&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20•%20Developer%20•%20Threat%20Hunter&descSize=18&descAlignY=60" width="100%"/>
 
 </div>
+
+
 
 <div align="center">
   

@@ -132,10 +132,9 @@ GUI Mode: User-friendly graphical interface
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hghost0x00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&ring_color=00F7F7&include_all_commits=true&count_private=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hghost0x00&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hghost0x00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -164,17 +163,7 @@ GUI Mode: User-friendly graphical interface
 
 ---
 
-## 🤝 Collaboration & Contact
-
-<div align="center">
-
-**Open to collaboration on:**
-- 🔐 Security research projects
-- 🛠️ Open-source security tools
-- 🐛 Vulnerability disclosure programs
-- 📚 Educational security content
-
-### Let's Connect
+## 🤝 Let's Connect 
 
 [![Twitter](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hghost010)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hghost0x00)
